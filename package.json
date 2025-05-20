@@ -1,6 +1,6 @@
 {
   "name": "anythingllm-embed",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "AnythingLLM Embed widget submodule for the main AnythingLLM application",
   "main": "src/index.js",
   "scripts": {
